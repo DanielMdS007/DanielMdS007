@@ -1,9 +1,17 @@
-### Hi there 👋
+## Português
+Olá! Eu me chamo Daniel Mota de Souza <br>
 
-<!--
-**DanielMdS007/DanielMdS007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante iniciante de programação, no momento cursando Sistema de Informação na faculdade CEFET RJ<br>
 
-Here are some ideas to get you started:
+🌱 Atualmente estou aprendendo Python.
+
+
+## English
+Hello! I'm Daniel Mota de Souza <br>
+
+I'm a begginer student on programming, in the moment I'm studying the course of Information Sistem in the University of CEFET RJ.<br>
+
+🌱 I’m currently learning Python.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
